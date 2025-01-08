@@ -10,7 +10,7 @@ Here is the example code demonstration.
 
  Test your can bus hardware first with this code.
  
- A LED blick can save you hours for debugging, If you are writing large chunk of code. Use it wisely.
+ A LED blink can save you hours for debugging, If you are writing large chunk of code. Use it wisely.
 
 Hope this helps you,
 
