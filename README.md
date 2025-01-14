@@ -6,7 +6,7 @@ Here is some can modules, in this code I used MCP2551.
 
 <br>
 
-Control Led Brightness with Potentiometer:
+Control Led Blinking Period with Potentiometer:
 
 Demonstration (potentiometer is fully off = LED OFF)
 
